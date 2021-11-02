@@ -1,3 +1,5 @@
-# JoseEspinozaEntrega1
+# JoseEspinozaEntrega2_001D
 src
-este es mi archivo README que posee mi proyecto "Sabias que..." utilizando ionic angular" entrega 1
+No olvidar instalar los comandos npm install @ionic/storage
+                                 npm install cordova-sqlite-storage
+                                 npm install @ionic-native/storage
